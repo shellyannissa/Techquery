@@ -1,3 +1,14 @@
+## Overview
+A sample app made with react frontend libraries.
+[view the website](https://techquery.vercel.app/)
+<img width="1440" alt="Screenshot 2023-07-11 at 3 46 55 PM" src="https://github.com/shellyannissa/Techquery/assets/118563935/c2350349-8d2b-4c18-8501-3abe5b461cd7">
+
+<img width="1440" alt="Screenshot 2023-07-11 at 3 05 01 PM" src="https://github.com/shellyannissa/Techquery/assets/118563935/474372a8-6ac4-48ab-814b-bde6cbcdf76d">
+
+<img width="1440" alt="Screenshot 2023-07-11 at 3 47 18 PM" src="https://github.com/shellyannissa/Techquery/assets/118563935/f03bb2d3-e0e1-45e1-a55b-77a4b508b48e">
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
